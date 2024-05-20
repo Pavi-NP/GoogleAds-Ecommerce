@@ -76,6 +76,13 @@ Bar charts for different months showing the conversions value by day.
 ### Summary Table
 A table summarizing total conversions, mean conversion rate, cost per conversion, and average cost for each product in December.
 
+## NOTE: 
+I also utilized a sample AdWords dataset for my analysis. To analyze this dataset, I used Looker Studio, a freely available data visualization and analytics platform developed by Google.
+
+Reference:
+https://lookerstudio.google.com/navigation/reporting
+
+
 ## Output:
 [AdWordsData_Looker Studio.pdf](https://github.com/Pavi-NP/GoogleAds-Ecommerce/files/15377440/AdWordsData_Looker.Studio.pdf)
 
