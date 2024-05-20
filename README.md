@@ -76,3 +76,7 @@ Bar charts for different months showing the conversions value by day.
 ### Summary Table
 A table summarizing total conversions, mean conversion rate, cost per conversion, and average cost for each product in December.
 
+## Output:
+[AdWordsData_Looker Studio.pdf](https://github.com/Pavi-NP/GoogleAds-Ecommerce/files/15377440/AdWordsData_Looker.Studio.pdf)
+
+
